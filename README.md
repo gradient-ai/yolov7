@@ -1,6 +1,6 @@
 # Paperspace Gradient fork of YOLOv7
 
-This repo is packaged with the Paperspace Blog tutorial on training YOLOv7 on custom datasets in a Gradient Notebook. The tutorial for this can be found [here](https://blog.paperspace.com/blog.paperspace.com/train-yolov7-custom-data/)
+This repo is packaged with the Paperspace Blog tutorial on training YOLOv7 on custom datasets in a Gradient Notebook. The tutorial for this can be found [here](https://blog.paperspace.com/train-yolov7-custom-data/)
 
 Launch this in Paperspace Gradient by clicking the link below.
 
